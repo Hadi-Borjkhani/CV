@@ -21,7 +21,7 @@
 - HTW Berlin
 - Urmia University of Technology
 - Science and Technology Institute, Urmia  
-- Urumi Graduate Institute, Urmia 
+- Urumi Graduate Institute, Urmia
 ### SKILLS (Software and Hardware)  
 - **Electrical Circuit Simulation:** Cadence, ADS, Hspice, Proteus, LTSpice  
 - **Mathematic Tools:** MATLAB, Python  
