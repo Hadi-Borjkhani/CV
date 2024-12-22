@@ -17,12 +17,7 @@
 **Visiting Researcher**  
 **2018** Dipartimento di Fisica, Politecnico di Milano, Milan, Italy  
 **Lecturer**  
-**2016–Present**
-- HTW Berlin
-- Urmia University of Technology
-- Science and Technology Institute, Urmia  
-- Urumi Graduate Institute, Urmia
-
+**2016–Present** HTW Berlin, Urmia University of Technology
 ### SKILLS (Software and Hardware)  
 - **Electrical Circuit Simulation:** Cadence, ADS, Hspice, Proteus, LTSpice  
 - **Mathematic Tools:** MATLAB, Python  
