@@ -5,5 +5,5 @@ show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
 github:
-  is_project_page: false
+  is_project_page: true
   repository_url: https://github.com/Hadi-Borjkhani/digital-CV
