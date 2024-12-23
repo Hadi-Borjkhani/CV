@@ -7,3 +7,5 @@ theme: jekyll-theme-minimal
 github:
   is_project_page: true
   repository_url: https://github.com/Hadi-Borjkhani/digital-CV
+  zip_url: # my CV
+  tar_url: # may Proejcts link
