@@ -19,14 +19,14 @@
 **Lecturer**  
 **2016–Present** HTW Berlin, Urmia University of Technology
 ### SKILLS (Software and Hardware)  
-- **Electrical Circuit Simulation:** Cadence, ADS, Hspice, Proteus, LTSpice  
-- **Mathematic Tools:** MATLAB, Python  
-- **Toolboxes:** MNE, Brain AnalyzIR, Iso2mesh, Homer2 & 3, ICAlab, EEGLab, ARL EEG Models, NIRFAST, NeuroDOT  
-- **Multiphysics Simulation:** COMSOL, Live Link  
-- **Programming:** C, C++, MATLAB, Python  
-- **3D Printing and Laser Cutting:** CorelDraw, OpenSCAD  
-- **Experience With:** Ubuntu, Anaconda  
-- **Embedded Systems Programming**  
-- **Microcontrollers:** Arduino, Raspberry Pi, RP2040, STM32  
-- **PCB Design:** KiCAD  
-- **Project Management:** GitLab, GitHub, OneNote, Zenkit 
+**Electrical Circuit Simulation:** Cadence, ADS, Hspice, Proteus, LTSpice  
+**Mathematic Tools:** MATLAB, Python  
+**Toolboxes:** MNE, Brain AnalyzIR, Iso2mesh, Homer2 & 3, ICAlab, EEGLab, ARL EEG Models, NIRFAST, NeuroDOT  
+**Multiphysics Simulation:** COMSOL, Live Link  
+**Programming:** C, C++, MATLAB, Python  
+**3D Printing and Laser Cutting:** CorelDraw, OpenSCAD  
+**Experience With:** Ubuntu, Anaconda  
+**Embedded Systems Programming**  
+**Microcontrollers:** Arduino, Raspberry Pi, RP2040, STM32  
+**PCB Design:** KiCAD  
+**Project Management:** GitLab, GitHub, OneNote, Zenkit 
