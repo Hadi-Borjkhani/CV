@@ -1,5 +1,5 @@
 **Scientific Assistant and Lecturer**  
-Biomedical Engineer | Neurotechnology Researcher | Embedded Systems Developer  
+Biomedical Engineer (Bio-Electric) | Computational Neuroscience | Embedded Systems Developer | fNIRS
 📍 HTW Berlin, Berlin, Germany  
 📧 Hadi.Borj@HTW-Berlin.de | Edu.borjkhani@gmail.com  
 📱 +49 176 22571369  
@@ -44,8 +44,7 @@ I am a biomedical engineer and interdisciplinary researcher with a focus on neur
 
 ## 🏆 Honors & Awards
 
-- PhD Scholarship – HTW Berlin, Germany  
-- Exceptional Talent – Direct admission to M.Sc. without entrance exam  
+- Exceptional Talent – Direct admission to Ph.D. and M.Sc.  
 - Full scholarships in government-supported universities and schools  
 - Ranked 1st in B.Sc. Electrical Engineering, Urmia University (2011)  
 - 2nd Prize – Best Poster Award, BCNC-2018  
