@@ -42,6 +42,42 @@ I am a biomedical engineer and interdisciplinary researcher with a focus on neur
 
 ---
 
+## 🏆 Honors & Awards
+
+- PhD Scholarship – HTW Berlin, Germany  
+- Exceptional Talent – Direct admission to M.Sc. without entrance exam  
+- Full scholarships in government-supported universities and schools  
+- Ranked 1st in B.Sc. Electrical Engineering, Urmia University (2011)  
+- 2nd Prize – Best Poster Award, BCNC-2018  
+- Top Graduate Recognition – Presidential Institution of Iran
+
+---
+
+## 📚 Full List of Publications
+
+### Preprints
+- Yücel, M. A., Luke, R., Mesquita, R. C., von Lühmann, A., Mehler, D. M. A., Lührs, M., Borjkhani, H., … Zemanek, V. (2024, September 24). **The fNIRS Reproducibility Study Hub (FRESH): Exploring Variability and Enhancing Transparency in fNIRS Neuroimaging Research**. [DOI](https://doi.org/10.31222/osf.io/pc6x8)
+
+### Journal Articles
+1. Borjkhani, Hadi, Seyed Kamaledin Setarehdan. **"Quantitative Comparison of Analytical Solution and Finite Element Method for investigation of Near-Infrared Light Propagation in Brain Tissue Model."** *Basic and Clinical Neuroscience (BCN)*, 2021. Accepted.
+2. Borjkhani, Hadi, Seyed Kamaledin Setarehdan, Samad Sheikhaei. **"Optimal Sub-Harmonic Injection Locked MICS Band Transmitter for Wireless CW-fNIRS Systems."** *IJCTA*, 2021.
+3. Borjkhani, Hadi, Seyed Kamaledin Setarehdan. **"Performance assessment of high-density diffuse optical topography regarding source-detector array topology."** *PLOS ONE*, 15.3 (2020): e0230206.
+4. Borjkhani, Hadi, Mehdi Borjkhani, Morteza A. Sharif. **"Investigating the Cocaine-induced Reduction of Potassium Current on the Generation of Action Potentials Using a Computational Model."** *Basic and Clinical Neuroscience*, BCN 2022.
+5. Borjkhani, H., S. Sheikhaei, M. Borjkhani. **"Low power MICS band Transmitter for Bio-Medical Sensor Nodes with Driving Capability by Energy Harvesting Systems."** *Iranian Journal of Biomedical Engineering*, 8 (2014): 31-43.
+6. Fathizadeh, Samira, Sohrab Behnia, F. Nemati, Mostafa Salimi, Hadi Borjkhani. **"Chaotic control of the dynamical behavior of COVID-19 through the electromagnetic fields."** *Physica Scripta*, 2022.
+
+### Conference Papers
+7. Borjkhani, Hadi, Samad Sheikhaei, Mehdi Borjkhani. **"Low power current starved sub-harmonic injection-locked ring oscillator."** *22nd Iranian Conference on Electrical Engineering (ICEE)*, IEEE, 2014.
+8. Borjkhani, Hadi, Mehdi Borjkhani, Samad Sheikhaei. **"A 168µW MICS band transmitter based on injection locking for biomedical sensor nodes."** *20th Iranian Conference on Biomedical Engineering (ICBME)*, IEEE, 2013.
+9. Borjkhani, Hadi, Seyed Kamaledin Setarehdan. **"Modeling and Simulation of Near-Infrared Light Reflectance from Brain Tissue Using Perturbation Theory"** *BCNC-2018*. Poster Presentation (Won 2nd prize Best Poster).
+10. Borjkhani, Hadi, Seyed Kamaledin Setarehdan. **"Comprehensive Approach for Synthetic fNIRS Data Generation"** *BCNC-2018*. Oral Presentation.
+11. Soltanlou, Mojtaba, Hadi Borjkhani, Hans-Christoph Nuerk. **"Arithmetic training improves neural functionality in children with dyscalculia"** *Mathematical Cognition and Learning Society Conference (MCLS)*, 2022.
+
+### Under Preparation
+- **"An fNIRS study of the neurocognitive mechanisms of mathematics vocabulary processing in L1 and L2 in South African first graders."** *(In preparation for submission)*
+
+---
+
 ## 🛠 System Design & Implementation
 
 - 16–24 channel NIRS system for light propagation studies  
@@ -112,34 +148,6 @@ Embedded Programming, Computational Neuroscience, fNIRS, EEG, HDDOT, Brain-Compu
 ## 🌐 Languages
 
 Azerbaijani, Turkish, Persian, English, German (A2)
-
----
-
-## 🏆 Honors & Awards
-
-- PhD Scholarship – HTW Berlin, Germany  
-- Exceptional Talent – Direct admission to M.Sc. without entrance exam  
-- Full scholarships in government-supported universities and schools  
-- Ranked 1st in B.Sc. Electrical Engineering, Urmia University (2011)  
-- 2nd Prize – Best Poster Award, BCNC-2018  
-- Top Graduate Recognition – Presidential Institution of Iran
-
----
-
-## 📚 Publications
-
-1. Yücel, M. A., et al. (2024). *The fNIRS Reproducibility Study Hub (FRESH)*. [https://doi.org/10.31222/osf.io/pc6x8](https://doi.org/10.31222/osf.io/pc6x8)  
-2. Borjkhani, H., Setarehdan, S.K. *Quantitative Comparison of Analytical Solution and FEM*. BCN, 2021.  
-3. Borjkhani, H., Setarehdan, S.K., Sheikhaei, S. *Optimal Sub-Harmonic Injection Locked Transmitter*. IJCTA, 2021.  
-4. Borjkhani, H., Setarehdan, S.K. *Performance Assessment of HDDOT Array Topology*. PLOS ONE, 2020.  
-5. Borjkhani, H., Borjkhani, M., Sharif, M.A. *Cocaine-Induced Potassium Current Reduction*. BCN, 2022.  
-6. Borjkhani, H., Sheikhaei, S., Borjkhani, M. *Low Power Transmitter for Sensor Nodes*. IJBE, 2014.  
-7. Fathizadeh, S., et al. *Chaotic Control of COVID-19*. Physica Scripta, 2022.  
-8. Borjkhani, H., Sheikhaei, S., Borjkhani, M. *Sub-Harmonic Oscillator*. ICEE, 2014.  
-9. Borjkhani, H., et al. *Injection-Locked Transmitter for Biomedical Nodes*. ICBME, 2013.  
-10. Borjkhani, H., Setarehdan, S.K. *NIR Reflectance Simulation*. BCNC-2018. (*2nd Prize Poster*)  
-11. Borjkhani, H., Setarehdan, S.K. *Synthetic fNIRS Data Generation*. BCNC-2018. (Oral)  
-12. Soltanlou, M., Borjkhani, H., Nuerk, H.-C. *Arithmetic Training in Dyscalculia*. MCLS, 2022.
 
 ---
 
