@@ -1,9 +1,6 @@
-
-# Hadi Borjkhani
-
 **Scientific Assistant and Lecturer**  
 Biomedical Engineer | Neurotechnology Researcher | Embedded Systems Developer  
-📍 HTW Berlin, Germany  
+📍 HTW Berlin, Berlin, Germany  
 📧 Hadi.Borj@HTW-Berlin.de | Edu.borjkhani@gmail.com  
 📱 +49 176 22571369  
 
