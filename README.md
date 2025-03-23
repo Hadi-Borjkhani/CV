@@ -79,8 +79,8 @@ I am a biomedical engineer and interdisciplinary researcher with a focus on neur
 
 ## 🎓 Thesis Supervision
 
-- **F. L. Arndt** – Viel-Kanal-LED-Ansteuerung für tragbares fNIRS-System, HTW Berlin *(Sept. 2024)*  
-- **A. Tamim** – SiPM-Nahinfrarotsensor Evaluation Module using Raspberry Pico, HTW Berlin *(Oct. 2024)*
+- **fNIRS LED Modulation** – Viel-Kanal-LED-Ansteuerung für tragbares fNIRS-System, HTW Berlin *(Sept. 2024)*  
+- **fNIRS Detectors** – SiPM-Nahinfrarotsensor Evaluation Module using Raspberry Pico, HTW Berlin *(Oct. 2024)*
 
 ---
 
