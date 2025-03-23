@@ -11,3 +11,4 @@ github:
   tar_url: # may Proejcts link
   #repository_url: https://github.com/Hadi-Borjkhani/CV/blob/main/Hadi_Borjkhani_CV_Publications_Full.md
   Hadi: true
+  show_downloads: true
