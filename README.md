@@ -23,7 +23,7 @@ I am a biomedical engineer and interdisciplinary researcher with a focus on neur
 
 ## 🎓 Education
 
-- **Ph.D. in Biomedical Engineering**, University of Tehran, Iran *(2014–2021)*  
+- **Researcher in Biomedical Engineering**, University of Tehran, Iran *(2014–2021)*  
 - **M.Sc. in Electrical Engineering**, University of Tehran, Iran *(2011–2014)*  
   GPA: 17.99 / 20  
 - **B.Sc. in Electrical Engineering**, Urmia University, Iran *(2007–2011)*  
@@ -44,7 +44,7 @@ I am a biomedical engineer and interdisciplinary researcher with a focus on neur
 
 ## 🏆 Honors & Awards
 
-- Exceptional Talent – Direct admission to Ph.D. and M.Sc.  
+- Exceptional Talent – Direct admission to Ph.D. and M.Sc.Program 
 - Full scholarships in government-supported universities and schools  
 - Ranked 1st in B.Sc. Electrical Engineering, Urmia University (2011)  
 - 2nd Prize – Best Poster Award, BCNC-2018  
